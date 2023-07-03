@@ -1,16 +1,6 @@
-# flutter_news
+# Flutter News App
+A simple news app from newsapi.org with clean architecture and bloc state management.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Source
+- **`Github`**&ensp;&ensp;: [mahdinazmi](https://github.com/TheWCKD/blocFromHeroToWizard) 
+- **`Youtube`**&ensp;: [Flutter Clean Architecture](https://www.youtube.com/playlist?list=PLjyxas0TsCpnjpzCv3rnsX3LjS9G2K05f)
